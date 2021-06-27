@@ -309,3 +309,12 @@ font-weight: normal;
 color:#fff;
 opacity:1;
 }
+
+.play-video {
+  color: #000;
+}
+.play-video:hover{
+  background-color: #ffffff;
+  color: #000;
+  border: 2px solid #ffffff;
+}
